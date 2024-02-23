@@ -1,0 +1,27 @@
+.text-center{
+    text-align: center;
+}
+
+.container{
+    margin:auto;
+    padding: auto;
+    background-color: rgb(244, 208, 130);
+    display: inline-block;
+    border: 2px solid rgb(255, 255, 255); /* Adjust border properties as needed */
+  padding: 8px;
+  border-width:0 30vw;
+}
+
+.flex{
+display: flex;
+}
+
+.flex-col{
+ flex-direction: column;
+}
+
+.item-center{
+align-items: center;
+}
+
+
